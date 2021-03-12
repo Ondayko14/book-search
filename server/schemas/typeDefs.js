@@ -21,6 +21,23 @@ type User {
   savedBooks: [savedBooks]
 
 }
+type Book {
+  bookId: Int
+
+  authors: [String]
+
+  description: String
+
+  title: String
+
+  link: String
+
+}
+type Auth {
+  token: String
+
+  user: [User]
+}
 
 
 type Query {
