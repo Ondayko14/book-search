@@ -6,7 +6,7 @@ My name is Brandon. Welcome to Book Search!
 
 This is a booksearch site. I built the backend for this particular application
 
-![The Landing Page](./src/imgs/Screenshot1.png)
+![The Landing Page](./readMeImg/Screenshot.png)
 
 ## Language(s)
 
@@ -19,7 +19,7 @@ Node, Javascript, GraphQL
 
 ## Usage
 
-> Look up and ssave books
+> Look up and save books
 ## License
 
 This project is covered under the license of MIT
